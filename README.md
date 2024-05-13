@@ -2,7 +2,7 @@
 
 Desenvolvedor web Front-end e estudante de design gráfico, buscando integrar habilidades técnicas com criatividade. Atualmente, focado em aprimorar habilidades de design para criar projetos web únicos e eficientes. Contribuiu para minha criação de softwares, demonstrando habilidades tanto em desenvolvimento quanto em design. Ansioso para explorar oportunidades que envolvam soluções inovadoras e colaborativas.
 
-- 💻 Trabalho com Front-end
+- 💻 Trabalho com Front-end na empresa BonfireTech
 - 🎓 Me graduando em Engenharia de Software
 - 📚 Estudando React
 
